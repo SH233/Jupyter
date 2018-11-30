@@ -3,5 +3,7 @@
         <file>main.qml</file>
         <file>Box.qml</file>
         <file>ZSwitch.qml</file>
+        <file>Hardware.qml</file>
+        <file>work-pattern.qml</file>
     </qresource>
 </RCC>

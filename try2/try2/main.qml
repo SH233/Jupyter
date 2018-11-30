@@ -87,7 +87,6 @@ Window{
         }
     }
 
-
     Rectangle {
         id: referee
         width: parent.width
@@ -120,8 +119,6 @@ Window{
             anchors.centerIn: parent
             rows: 6
             columns: 2
-
-
 
             Button {
                 text: "HALT"
